@@ -1,2 +1,2 @@
-# speed
-Speed Typing Test code and links!
+# speed-typing
+An interactive speed typing test to calculate your words per minute.
